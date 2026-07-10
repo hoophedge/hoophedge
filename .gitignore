@@ -1,0 +1,10 @@
+# raw photos and prepped intermediates stay local — only generated SVGs are published
+source-photo.*
+source-prepped.png
+*.jpg
+*.jpeg
+*.png
+*.html
+
+__pycache__/
+.venv/
