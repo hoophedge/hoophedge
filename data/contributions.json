@@ -1,17 +1,17 @@
 {
   "username": "hoophedge",
-  "generated_at": "2026-07-31T09:18:37Z",
+  "generated_at": "2026-08-01T08:34:54Z",
   "range": {
     "start": "2025-07-27",
-    "end": "2026-07-31"
+    "end": "2026-08-01"
   },
-  "total_contributions": 1080,
-  "active_days": 152,
+  "total_contributions": 1081,
+  "active_days": 153,
   "avg_per_active_day": 7.1,
   "current_streak": {
-    "length": 21,
+    "length": 22,
     "start": "2026-07-10",
-    "end": "2026-07-30"
+    "end": "2026-07-31"
   },
   "longest_streak": {
     "length": 55,
@@ -73,7 +73,11 @@
     },
     {
       "month": "2026-07",
-      "total": 37
+      "total": 38
+    },
+    {
+      "month": "2026-08",
+      "total": 0
     }
   ],
   "days": [
@@ -1555,6 +1559,10 @@
     },
     {
       "date": "2026-07-31",
+      "count": 1
+    },
+    {
+      "date": "2026-08-01",
       "count": 0
     }
   ]
